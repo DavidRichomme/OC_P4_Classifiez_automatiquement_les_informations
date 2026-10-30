@@ -5,7 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
-.DS_Store
+
+
+# Project documentation
+PrésentationTechNova.pptx
+
 
 # Virtual environments
 .venv
+.DS_Store
